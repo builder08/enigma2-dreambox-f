@@ -1,8 +1,7 @@
-SUBDIRS = countries display fonts extensions keymaps skin_default rc_models hw_info VirtualKeyBoard_Icons
+SUBDIRS = countries display fonts extensions keymaps skin_default hw_info VirtualKeyBoard_Icons
 
 dist_pkgdata_DATA = \
 	black.mvi \
-	radio.mvi \
 	encoding.conf \
 	dab.xml \
 	freesat.t1 \
