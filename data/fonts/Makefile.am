@@ -18,10 +18,7 @@ dist_install_DATA = \
 	wqy-microhei.ttc \
 	AbyssinicaSIL-Regular.ttf \
 	enigma2icons.ttf \
-	Roboto-Black.ttf \
-	Roboto-BlackItalic.ttf \
-	Roboto-Bold.ttf \
-	Roboto-BoldItalic.ttf
+	Roboto-Black.ttf
 
 install-data-hook:
 	cd $(DESTDIR)$(datadir)/fonts && \
