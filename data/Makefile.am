@@ -1,4 +1,4 @@
-SUBDIRS = countries display fonts extensions keymaps skin_default hw_info VirtualKeyBoard_Icons rc_models
+SUBDIRS = countries display fonts extensions keymaps hw_info VirtualKeyBoard_Icons rc_models
 
 dist_pkgdata_DATA = \
 	black.mvi \
